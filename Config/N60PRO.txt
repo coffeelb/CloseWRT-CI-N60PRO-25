@@ -1,0 +1,15 @@
+# Netcore N60 Pro (MT7986) - MTK U-Boot layout
+# Source: chasey-dev/immortalwrt-mt798x-rebase, branch 25.12
+# Intended for CloseWRT-CI Config/N60PRO.txt alongside Config/GENERAL.txt
+
+# Target platform
+CONFIG_TARGET_mediatek=y
+CONFIG_TARGET_mediatek_filogic=y
+
+# Device profile: MTK U-Boot layout only
+CONFIG_TARGET_mediatek_filogic_DEVICE_netcore_n60-pro-mtkuboot=y
+
+# WireGuard VPN (device-specific selection)
+CONFIG_PACKAGE_kmod-wireguard=y
+CONFIG_PACKAGE_wireguard-tools=y
+CONFIG_PACKAGE_luci-proto-wireguard=y

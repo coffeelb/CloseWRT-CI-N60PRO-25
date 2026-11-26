@@ -1,0 +1,57 @@
+# 高质量<免费>交流群
+
+[IPQ技术讨论群](https://qm.qq.com/q/v7nMhzB4oU)
+
+# 高质量<付费>中转站
+
+[LiBwrt-Ai](https://api.zipimg.cn/register?aff=FFPS3UMJ8HJD)
+
+# 本地编译器
+
+https://github.com/VIKINGYFY/OWRT-Tools.git
+
+# 自用修改版插件
+
+https://github.com/VIKINGYFY/packages.git
+
+# CloseWRT-CI
+
+源码：
+
+https://github.com/chasey-dev/immortalwrt-mt798x-rebase.git
+
+https://github.com/Yuzhii0718/immortalwrt-mt798x-6.6-padavanonly.git
+
+# U-BOOT
+
+全新版：
+
+https://github.com/VIKINGYFY/UBOOT-CI/releases
+
+# 注意
+
+本项目仅支持编译带有defconfig目录的MTK SDK闭源项目。
+
+# 固件简要说明
+
+固件每周一早上5点自动编译。
+
+固件信息里的时间为编译开始的时间，方便核对上游源码提交时间。
+
+# 目录简要说明
+
+workflows——自定义CI配置
+
+Scripts——自定义脚本
+
+Config——自定义配置
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=vikingyfy%2Fclosewrt-ci&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=vikingyfy/closewrt-ci&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=vikingyfy/closewrt-ci&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=vikingyfy/closewrt-ci&type=date&legend=top-left" />
+ </picture>
+</a>
